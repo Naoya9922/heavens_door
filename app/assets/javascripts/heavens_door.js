@@ -44,7 +44,6 @@
   });
 
   copyButton.addEventListener("click", () => {
-    alert("コンソールへ出力しました。");
     console.log(sessionStorage.heavensDoor);
   });
 
